@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rock-paper-scissors", "rock-paper-scissors\rock-paper-scissors.vcxproj", "{550F33CD-85FC-4999-A8D9-93D9D4002E10}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "REQ_001", "REQ_001\REQ_001.vcxproj", "{482B6109-382E-4D54-955A-E503A0065297}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{550F33CD-85FC-4999-A8D9-93D9D4002E10}.Release|x64.Build.0 = Release|x64
 		{550F33CD-85FC-4999-A8D9-93D9D4002E10}.Release|x86.ActiveCfg = Release|Win32
 		{550F33CD-85FC-4999-A8D9-93D9D4002E10}.Release|x86.Build.0 = Release|Win32
+		{482B6109-382E-4D54-955A-E503A0065297}.Debug|x64.ActiveCfg = Debug|x64
+		{482B6109-382E-4D54-955A-E503A0065297}.Debug|x64.Build.0 = Debug|x64
+		{482B6109-382E-4D54-955A-E503A0065297}.Debug|x86.ActiveCfg = Debug|Win32
+		{482B6109-382E-4D54-955A-E503A0065297}.Debug|x86.Build.0 = Debug|Win32
+		{482B6109-382E-4D54-955A-E503A0065297}.Release|x64.ActiveCfg = Release|x64
+		{482B6109-382E-4D54-955A-E503A0065297}.Release|x64.Build.0 = Release|x64
+		{482B6109-382E-4D54-955A-E503A0065297}.Release|x86.ActiveCfg = Release|Win32
+		{482B6109-382E-4D54-955A-E503A0065297}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
